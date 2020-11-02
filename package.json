@@ -1,0 +1,11 @@
+{
+  "name": "vwa-css3-001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx /wp/test-runner/cypress.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
